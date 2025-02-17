@@ -61,7 +61,7 @@
 </div>
 
 ###
-## 👀 **Visitor Count**
+## 👀 **Total Visitors Count**
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rizbiahmmad.rizbiahmmad&"  />
