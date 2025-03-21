@@ -68,9 +68,9 @@
 ###
 ## 👀 **Total Visitors Count**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizbiahmmad.rizbiahmmad&"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizbiahmmad&style=for-the-badge" alt="Profile Visitor Count" />
+</p>
 
 ###
 
