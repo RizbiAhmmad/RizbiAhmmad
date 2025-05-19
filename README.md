@@ -2,7 +2,9 @@
 
 ###
 
-<h1 align="center">Hey..  👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00CCDD&center=true&vCenter=true&width=400&lines=👋+Hi,+I'm+Rizbi+Ahmmad!;" alt="Typing SVG" />
+</p>
 
 ###
 
