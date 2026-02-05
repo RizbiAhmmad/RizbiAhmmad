@@ -73,8 +73,6 @@
 
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
@@ -104,7 +102,6 @@
 
 <div align="center">
 
-<<<<<<< HEAD
 ### ⭐ Show some love by starring repositories you find interesting!
 
 ---
@@ -112,21 +109,4 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00CCDD&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile..;" alt="Typing SVG" />
 </p>
-=======
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizbiahmmad&theme=highcontrast" alt="GitHub Streak" />
-</p>
 
-###
-## 👀 **Total Visitors Count**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizbiahmmad&style=for-the-badge" alt="Profile Visitor Count" />
-</p>
-
-###
-
-
-
->>>>>>> 45a45cebb053b06ad3bcb1d500b81d63170e07a7
