@@ -2,7 +2,9 @@
 
 ###
 
-<h1 align="center">Hey..  👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00CCDD&center=true&vCenter=true&width=400&lines=👋+Hi,+I'm+Rizbi+Ahmmad!;" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">I am a Frontend Web Developer with expertise in Html, CSS, React, Node js, Express, MongoDB, TailwindCSS.  I am passionate about creating seamless web applications with a keen eye for design and functionality.<br><br>- 🔭 I’m working in KS Network LTD.<br>- 📚 I'm currently learning Next.JS and advanced JavaScript.<br>- 👯 I’m open to collaborations on open-source projects. <br>- ⚡ Fun fact: I love Designing & Exploring new web trends.</p>
+<p align="left">I am a Full Stack Developer with expertise in Html, CSS, TailwindCSS, JavaScript, TypeScript, React, NodeJS, ExpressJS, MongoDB, Prisma, PostgreSQL. I am passionate about creating seamless web applications with a keen eye for design and functionality.<br><br>- 🔭 I’m working in BangladeshiIT.<br>- 📚 I'm currently learning Next.JS and advanced JavaScript.<br>- 👯 I’m open to collaborations on open-source projects. <br>- ⚡ Fun fact: I love Designing & Exploring new web trends.</p>
 
 ###
 
@@ -20,16 +22,16 @@
 
 <div align="center">
   <a href="https://www.facebook.com/mdakashkhan444/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rizbi-ahmmad-064481304/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="contact.rizbi123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/8801815109616" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp logo" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="WhatsApp logo" />
   </a>
 </div>
 
@@ -48,28 +50,64 @@
   
 </div>
 
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rizbiahmmad&theme=github_dark&graph=false&languages=true&streak=true&stats=false&header=false&summary=true&profile=false" alt="GitHub Insights" />
+</p>
+
+
+## 💼 What I Bring to Your Team
+
+<div align="center">
+
+| 💪 Strength | 📝 Description |
+|-------------|----------------|
+| **🎯 Production-Ready Code** | Writing clean, maintainable, and scalable solutions that stand the test of time |
+| **🔄 Full-Stack Expertise** | End-to-end development from database design to deployment and monitoring |
+| **🧩 Problem-Solving Mindset** | Breaking down complex challenges into actionable, efficient solutions |
+| **📚 Continuous Learning** | Daily commits, constant growth, and quick adaptation to new technologies |
+| **🤝 Team Collaboration** | Clear communication, code reviews, and a teamwork-oriented approach |
+| **⚡ Performance Focus** | Optimizing applications for speed, scalability, and user experience |
+
+</div>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
+
+### I'm always excited to discuss new opportunities, collaborate on innovative projects, or connect with fellow developers!
+
+<br>
+
+### 💼 Open For:
+✅ **Full-time Developer Positions**  
+✅ **Freelance & Contract Projects**  
+✅ **Open Source Collaborations**  
+✅ **Technical Consulting**  
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizbi2001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rizbi.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.rizbi123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RizbiAhmmad)
+
+<br>
+
 ---
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizbiahmmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizbiahmmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+### ⭐ Show some love by starring repositories you find interesting!
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizbiahmmad.rizbiahmmad&"  />
-</div>
+---
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rizbiahmmad/count.svg?"  />
-</div>
-
-###
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00CCDD&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile..;" alt="Typing SVG" />
+</p>
